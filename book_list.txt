@@ -1,0 +1,8 @@
+・Python「超」入門
+・基礎Python
+・Pythonによるデータ分析入門 ―NumPy、pandasを使ったデータ処理
+（2,4,5,6,8,10章）
+・Python機械学習プログラミング
+・深層学習
+・TECHNICAL MASTERはじめてのHTML+CSS
+・３日でマスター JavaScript
