@@ -6,3 +6,4 @@
 ・深層学習
 ・TECHNICAL MASTERはじめてのHTML+CSS
 ・３日でマスター JavaScript
+・Chaierによる実践深層学習
